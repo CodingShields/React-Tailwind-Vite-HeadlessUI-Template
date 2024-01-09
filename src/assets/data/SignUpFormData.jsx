@@ -1,0 +1,15 @@
+const companyData = [
+	"company",
+	"repFirstName",
+	"repLastName",
+	"address",
+	"city",
+	"state",
+	"zip",
+	"country",
+	"repEmail",
+	"repPhone",
+	"website",
+	"industry",
+	"logo",
+];
